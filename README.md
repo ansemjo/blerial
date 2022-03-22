@@ -2,7 +2,7 @@
 
 Carrier board for a transparent Bluetooth 5.0 BLE to UART bridge based on [JiNan Huamao HM-17 modules](http://www.jnhuamao.cn/bluetooth.asp).
 
-There is loads of such modules on Aliexpress and elsewhere. However, what sets this module apart is the coin cell battery on the bottom side, which provides enough juice to power the board before it is connected to any device – allowing you to connect already and capture the very first few packets, as soon as they come in.
+There is loads of such modules on Aliexpress and elsewhere. However, what sets this module apart is the coin cell battery on the bottom side, which provides enough juice to power the board before it is physically connected to any device – allowing you to connect the serial console already and capture the very first few packets, as soon as they come in.
 
 * coin cell holder for CR2032 powers up the board for connection
 
