@@ -17,6 +17,10 @@ There are different modules which fit the footprint:
 
 I have also successfully connected a JDY-31. This required a glued-on plastic shim and some bodge wires but as long as you can connect `GND`, `VCC`, `RX`, `TX` and some sort of status `LED`, you should be good to go.
 
+## Assembly
+
+During assembly you can use the [interactive BOM `ibom.html`](https://ansemjo.github.io/blerial/ibom.html) to see where each component goes. Due to space constraints I ommitted reference designators in the silkscreen layer. :grimacing:
+
 ## Connection
 
 * For the BLE modules, you can use [Jakeler/ble-serial](https://github.com/Jakeler/ble-serial) to create a `/tmp/ttyBLE` device, which you can then use with your favourite serial terminal.
