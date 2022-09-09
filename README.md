@@ -21,6 +21,7 @@ I have also successfully connected a JDY-31. This required a glued-on plastic sh
 
 * For the BLE modules, you can use [Jakeler/ble-serial](https://github.com/Jakeler/ble-serial) to create a `/tmp/ttyBLE` device, which you can then use with your favourite serial terminal.
 * Dual Mode or older Bluetooth 2.0 RFCOMM devices can be connected with `rfcomm bind ...`.
+* On Android devices, you can use the [Serial Bluetooth Terminal app](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal) to connect both "classic" and LE modules.
 
 ## Images
 
